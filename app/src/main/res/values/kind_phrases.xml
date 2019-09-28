@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_you_are_phrase">You are\ndefault!</string>
+    <string name="you_are_phrase">You are\n%1$s!</string>
+    <string-array name="you_are_pieces">
+        <item>able</item>
+        <item>accomplished</item>
+        <item>admirable</item>
+        <item>adorable</item>
+        <item>adaptable</item>
+        <item>affectionate</item>
+        <item>affirming</item>
+        <item>amazing</item>
+        <item>ambitious</item>
+        <item>amusing</item>
+        <item>angelic</item>
+        <item>appreciative</item>
+        <item>attentive</item>
+        <item>attractive</item>
+        <item>authentic</item>
+        <item>awesome</item>
+
+        <item>beautiful</item>
+        <item>beloved</item>
+        <item>beneficial</item>
+        <item>benevolent</item>
+        <item>the best</item>
+        <item>blissful</item>
+        <item>blooming</item>
+        <item>blossoming</item>
+        <item>bold</item>
+        <item>breathtaking</item>
+        <item>brilliant</item>
+        <item>brave</item>
+
+        <item>calm</item>
+        <item>capable</item>
+        <item>caring</item>
+        <item>certain</item>
+        <item>charitable</item>
+        <item>charming</item>
+        <item>cheerful</item>
+        <item>choice</item>
+        <item>clear-headed</item>
+        <item>cool</item>
+        <item>compassionate</item>
+        <item>committed</item>
+        <item>competent</item>
+        <item>concentrated</item>
+        <item>considerate</item>
+        <item>confident</item>
+        <item>consistent</item>
+        <item>cooperative</item>
+        <item>courageous</item>
+        <item>courteous</item>
+        <item>curious</item>
+        <item>creative</item>
+        <item>cute</item>
+
+        <item>daring</item>
+        <item>dazzling</item>
+        <item>delicate</item>
+        <item>delicious</item>
+        <item>delightful</item>
+        <item>dependable</item>
+        <item>desirable</item>
+        <item>determined</item>
+        <item>devoted</item>
+        <item>diligent</item>
+        <item>distinguished</item>
+        <item>disciplined</item>
+        <item>divine</item>
+        <item>a do-er</item>
+        <item>dreamy</item>
+        <item>dynamic</item>
+
+        <item>eager</item>
+        <item>ecstatic</item>
+        <item>educated</item>
+        <item>effective</item>
+        <item>efficient</item>
+        <item>elated</item>
+        <item>elegant</item>
+        <item>empathetic</item>
+        <item>empowered</item>
+        <item>enabling</item>
+        <item>encouraging</item>
+        <item>energetic</item>
+        <item>engaging</item>
+        <item>engrossing</item>
+        <item>enjoyable</item>
+        <item>enlivened</item>
+        <item>enthusiastic</item>
+        <item>enticing</item>
+        <item>entrancing</item>
+        <item>exalted</item>
+        <item>excellent</item>
+        <item>exciting</item>
+        <item>exhilarating</item>
+        <item>experienced</item>
+        <item>an expert</item>
+
+        <item>fabulous</item>
+        <item>fair</item>
+        <item>faithful</item>
+        <item>fantastic</item>
+        <item>fascinating</item>
+        <item>my favorite</item>
+        <item>feisty</item>
+        <item>festive</item>
+        <item>fetching</item>
+        <item>flexible</item>
+        <item>flourishing</item>
+        <item>focused</item>
+        <item>forgiving</item>
+        <item>free</item>
+        <item>friendly</item>
+        <item>fulfilled</item>
+        <item>fun</item>
+        <item>funny</item>
+
+        <item>a genius</item>
+        <item>genuine</item>
+        <item>genial</item>
+        <item>giddy</item>
+        <item>giving</item>
+        <item>going the extra mile</item>
+        <item>good</item>
+        <item>glorious</item>
+        <item>glowing</item>
+        <item>grace</item>
+        <item>gracious</item>
+        <item>groovy</item>
+        <item>grounded</item>
+
+        <item>harmonious</item>
+        <item>heartwarming</item>
+        <item>helpful</item>
+        <item>a hero</item>
+        <item>honest</item>
+        <item>honorable</item>
+        <item>hospitable</item>
+        <item>hot</item>
+        <item>humble</item>
+        <item>humorous</item>
+
+        <item>ideal</item>
+        <item>imaginative</item>
+        <item>incredible</item>
+        <item>ingenious</item>
+        <item>innovative</item>
+        <item>insightful</item>
+        <item>integrity</item>
+        <item>intelligent</item>
+        <item>interesting</item>
+        <item>inspiring</item>
+        <item>intriguing</item>
+
+        <item>jazzy</item>
+        <item>jovial</item>
+        <item>joyful</item>
+        <item>jubilant</item>
+
+        <item>keen</item>
+        <item>kind</item>
+        <item>kind-hearted</item>
+        <item>kindred</item>
+        <item>kitschy</item>
+        <item>knowledgeable</item>
+
+        <item>likable</item>
+        <item>lively</item>
+        <item>logical</item>
+        <item>lovable</item>
+        <item>loved</item>
+        <item>lovely</item>
+        <item>loving</item>
+        <item>loyal</item>
+        <item>lucky</item>
+        <item>luxurious</item>
+
+        <item>magic</item>
+        <item>magnificent</item>
+        <item>majestic</item>
+        <item>marvelous</item>
+        <item>masterful</item>
+        <item>meaningful</item>
+        <item>mellow</item>
+        <item>merciful</item>
+        <item>mindful</item>
+        <item>miraculous</item>
+        <item>modest</item>
+        <item>motivating</item>
+        <item>moving</item>
+
+        <item>neat</item>
+        <item>needed</item>
+        <item>nice</item>
+        <item>noble</item>
+        <item>noisy</item>
+        <item>normal</item>
+        <item>noteworthy</item>
+        <item>novel</item>
+        <item>nurturing</item>
+
+        <item>obedient</item>
+        <item>open-hearted</item>
+        <item>open-minded</item>
+        <item>optimistic</item>
+        <item>organized</item>
+        <item>original</item>
+        <item>out of this world</item>
+        <item>outstanding</item>
+        <item>over the top</item>
+
+        <item>passionate</item>
+        <item>peaceful</item>
+        <item>perceptive</item>
+        <item>perfect</item>
+        <item>persistent</item>
+        <item>playful</item>
+        <item>pleasing</item>
+        <item>polished</item>
+        <item>positive</item>
+        <item>powerful</item>
+        <item>prepared</item>
+        <item>present</item>
+        <item>prosperous</item>
+        <item>purpose driven</item>
+
+        <item>a quality person</item>
+        <item>quiet</item>
+        <item>quirky</item>
+
+        <item>rad</item>
+        <item>radiant</item>
+        <item>ravishing</item>
+        <item>ready</item>
+        <item>refined</item>
+        <item>resilient</item>
+        <item>respectful</item>
+        <item>righteous</item>
+        <item>rockin\'</item>
+        <item>romantic</item>
+
+        <item>safe</item>
+        <item>secure</item>
+        <item>selfless</item>
+        <item>sexy</item>
+        <item>sensuous</item>
+        <item>silly</item>
+        <item>sincere</item>
+        <item>smiley</item>
+        <item>my soulmate</item>
+        <item>sparky</item>
+        <item>special</item>
+        <item>spirited</item>
+        <item>spontaneous</item>
+        <item>spunky</item>
+        <item>striking</item>
+        <item>strong</item>
+        <item>stunning</item>
+        <item>stylish</item>
+        <item>sultry</item>
+        <item>supportive</item>
+        <item>sunshiny</item>
+        <item>super</item>
+        <item>sweet</item>
+        <item>sympathetic</item>
+
+        <item>teachable</item>
+        <item>a team player</item>
+        <item>tender</item>
+        <item>thankful</item>
+        <item>thrilling</item>
+        <item>timely</item>
+        <item>tranquil</item>
+        <item>true</item>
+        <item>trusting</item>
+
+        <item>ultimate</item>
+        <item>unique</item>
+        <item>understanding</item>
+        <item>uplifting</item>
+        <item>useful</item>
+
+        <item>wacky</item>
+        <item>wanted</item>
+        <item>warm</item>
+        <item>welcoming</item>
+        <item>whole hearted</item>
+        <item>wholesome</item>
+        <item>wild</item>
+        <item>a winner</item>
+        <item>witty</item>
+        <item>wonderful</item>
+        <item>wondrous</item>
+        <item>worth it</item>
+        <item>worthy</item>
+
+        <item>yahoo</item>
+        <item>yearbook worthy</item>
+
+        <item>zany</item>
+        <item>zesty</item>
+        <item>zingy</item>
+        <item>zippy</item>
+    </string-array>
+</resources>

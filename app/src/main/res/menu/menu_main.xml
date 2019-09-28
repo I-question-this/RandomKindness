@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.westland.tyler.randomkindness.MainActivity">
+    <item
+        android:id="@+id/action_random_kind_phrase"
+        android:orderInCategory="100"
+        android:title="@string/action_random_kind_phrase"
+        app:showAsAction="never" />
+</menu>
