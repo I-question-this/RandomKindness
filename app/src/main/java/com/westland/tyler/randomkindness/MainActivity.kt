@@ -7,20 +7,22 @@ import android.view.MenuItem
 
 // Our content xmls, importing them allows us to access the views (pieces) as variables
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.content_main.*
 
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // This function describes what should happen when this activity starts
+        // It is important (required) to call the super version of this function
         super.onCreate(savedInstanceState)
+        // Loads the XML file that describes how the application looks
         setContentView(R.layout.activity_main)
+        // Loads up the mostly unused tool bar on the top of the activity
         setSupportActionBar(toolbar)
 
+        // Tells our activity what to do when the button is pushed
         fab.setOnClickListener { view ->
             showRandomKindPhrase()
         }
-
-        showRandomKindPhrase()
     }
 
 
@@ -57,8 +59,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showRandomKindPhrase() {
-        // cute_phrase is a TextView object inside of content_main.xml
+        // kind_phrase is a TextView object inside of content_main.xml
         // We imported it at the top of the file, so we can just access it.
-        kind_phrase.text =  this.randomKindPhrase()
     }
 }

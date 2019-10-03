@@ -12,8 +12,6 @@
         android:id="@+id/kind_phrase"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:gravity="center"
         android:text="@string/default_you_are_phrase"
         android:textSize="44sp"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_you_are_phrase">You are\ndefault!</string>
+    <string name="default_you_are_phrase">You are\ndefault text!</string>
     <string name="you_are_phrase">You are\n%1$s!</string>
     <string-array name="you_are_pieces">
         <item>able</item>
